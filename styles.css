@@ -499,3 +499,12 @@ footer p{margin:4px 0}
     display: block !important;
     margin: 0 auto !important;
 }
+.profile-photo{
+  width: 190px !important;
+  height: 190px !important;
+  object-fit: contain !important;
+  object-position: center center !important;
+  padding: 12px !important;
+  background: #fbf3ea !important;
+  border: 8px solid #fbf3ea !important;
+}
