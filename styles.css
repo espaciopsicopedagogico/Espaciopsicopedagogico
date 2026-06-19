@@ -490,3 +490,12 @@ footer p{margin:4px 0}
     font-size:.9rem;
   }
 }
+.profile-photo img {
+    width: 220px !important;
+    height: 220px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    object-position: center top !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
