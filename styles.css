@@ -491,8 +491,8 @@ footer p{margin:4px 0}
   }
 }
 .profile-photo img {
-    width: 220px !important;
-    height: 220px !important;
+    width: 100% !important;
+    height: 100% !important;
     border-radius: 50% !important;
     object-fit: cover !important;
     object-position: center top !important;
